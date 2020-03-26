@@ -9,7 +9,7 @@ import "./style.css";
 
 export default function NewIncident() {
   return (
-    <div class="new-incident-container">
+    <div className="new-incident-container">
       <div className="content">
         <section>
           <img src={logoImg} alt="Be The Hero" />
